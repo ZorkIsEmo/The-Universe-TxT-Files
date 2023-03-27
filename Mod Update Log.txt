@@ -1,2 +1,2 @@
-This should now update%n%
+This should now update<br>
 automatically! 
