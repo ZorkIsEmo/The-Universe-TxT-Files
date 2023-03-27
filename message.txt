@@ -3,6 +3,9 @@ automatically!
 Cntrl+Alt+r
 to refresh this page
 
+Update 1.4.1
+-Fix scoreboard oops
+
 Update 1.4.0
 -Better Hitbox Look
 -Rainbow fish line
