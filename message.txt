@@ -1,5 +1,7 @@
 this should update
 automatically!
+Cntrl+Shift+r
+to refresh this page
 
 Update 1.4.0
 -Better Hitbox Look
@@ -7,4 +9,3 @@ Update 1.4.0
 -Automatic updatelog
 -Username sound when
 said in chat
-test 2
