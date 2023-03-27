@@ -1,2 +1,2 @@
-This should now update 
+This should now update%n%
 automatically! 
