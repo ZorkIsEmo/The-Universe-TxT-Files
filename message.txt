@@ -1,6 +1,6 @@
 this should update
 automatically!
-Cntrl+Shift+r
+Cntrl+Alt+r
 to refresh this page
 
 Update 1.4.0
