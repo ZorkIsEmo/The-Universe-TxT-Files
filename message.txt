@@ -1,22 +1,20 @@
-&4Press N to open &4notes and see &4important hotkeys in game
+&4Press N to open notes and see
+important hotkeys!
 
 Cntrl+Alt+r
 to refresh this page
 
 Update 1.4.4 &6(NEW)
--New inventory buttons
- art by JBsquiddy
- buttons for spawn
+-New inventory buttons art by
+ JBsquiddy, buttons for spawn
  and warp menu
 
 -Fly Fix
- will no longer be
- taken out of fly by
- landing on blocks
+ will no longer be taken out 
+ of fly by landing on blocks
 
 Update 1.4.3
--no sound when i
-speak now
+-no sound when i speak now
 
 Update 1.4.2
 -bug fix sorry <3
@@ -28,5 +26,5 @@ Update 1.4.0
 -Better Hitbox Look
 -Rainbow fish line
 -Automatic updatelog
--Username sound when
-said in chat 
+-Username sound when said in 
+ chat 
