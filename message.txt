@@ -1,6 +1,6 @@
 -----------------------------------
 &4Press N to open notes and see
-important hotkeys!
+&4important hotkeys!
 
 Cntrl+Alt+r
 to refresh this page
