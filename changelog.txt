@@ -1,0 +1,10 @@
+this should update
+automatically!
+
+Update 1.4.0
+-Better Hitbox Look
+-Rainbow fish line
+-Automatic updatelog
+-Username sound when
+said in chat
+test
