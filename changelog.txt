@@ -1,6 +1,12 @@
+------------------------------------------------------
 04/03/2023
-- Implemented 3 seconds chat delay for anyone that does not have solar or higher.
-- Prevent duplicated chat messages from being sent after each other
-- Added [item] and [i] to show off your items! (We are aware of some visual glitches related to this)
-- You can now click on a chat message to fill your chat bar with /msg <name> 
-- You can now mention players by saying their name in chat, you can toggle this in /preferences
+- Implemented 3 seconds chat delay for anyone that 
+  does not have solar or higher.
+- Prevent duplicated chat messages from being sent 
+  after each other
+- Added [item] and [i] to show off your items! (We are
+  aware of some visual glitches related to this)
+- You can now click on a chat message to fill your 
+  chat bar with /msg <name> 
+- You can now mention players by saying their name in 
+  chat, you can toggle this in /preferences
