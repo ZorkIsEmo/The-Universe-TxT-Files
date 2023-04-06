@@ -1,4 +1,5 @@
 ------------------------------------------------------
+
 04/05/2024
 - Pickaxe skins now have their original fancy color 
   names!
@@ -7,6 +8,7 @@
   member to the island.
 - Colored chat should now work as intended again
 - Altered chat filter slightly
+
 04/03/2023
 - Implemented 3 seconds chat delay for anyone that 
   does not have solar or higher.
