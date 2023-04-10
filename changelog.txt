@@ -1,6 +1,14 @@
 ------------------------------------------------------
 
-04/05/2024
+04/10/2023
+- Fixed several NBT tag syncing issues, causing items 
+  with "uses" to be stackable or disappear randomly. 
+  (This applies to all newly obtained items)
+- Lots of improvements to internal systems
+- Removed easter hunt event
+- Added SummerBeyond
+
+04/05/2023
 - Pickaxe skins now have their original fancy color 
   names!
 - You no longer take damage on islands, as long as 
