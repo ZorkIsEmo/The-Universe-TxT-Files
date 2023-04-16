@@ -2,6 +2,13 @@
 &4Press N to open notes and see
 &4important hotkeys!
 
+&4Update 2.0!!!
+-huge proformence improvements
+-shaders included in download
+-way better HUD custimization
+-inhanced main menu
+-way more inventory buttons!!!
+
 Update 1.6.3
 -bee head lag hotfix
 
