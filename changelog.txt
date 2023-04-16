@@ -1,5 +1,21 @@
 ------------------------------------------------------
 
+04/15/2023
+- Playerhead textures are now synchronized between 
+  all servers.
+- Added /island kick <player>.
+- Added /island deny [player].
+- Internal changes to how items with uses are handled.
+- Rewrote the bounty system. Playerheads show again. 
+  Bounties are not sorted yet.
+- Rose Quartz are now craftable (block <-> item).
+- Some texture updates on menu buttons and mineral 
+  blocks.
+- [item] shows now as bold light blue in chat.
+- Added chat filter to private messages.
+- Minor chat format changes.
+- Added additional illegal characters check.
+
 04/10/2023
 - Fixed several NBT tag syncing issues, causing items 
   with "uses" to be stackable or disappear randomly. 
