@@ -2,9 +2,13 @@
 &4Press N to open notes and see
 &4important hotkeys!
 
-Update 2.0.1
--menu fix, download 2.0 then
- update to this version
+Update 2.1.0
+-menu fix
+-Essential back
+-Inveotry HUD back
+-better default HUD
+&4update to 2.0 then update
+too 2.1.0 for best experience
 
 &4Update 2.0!!!
 -huge proformence improvements
