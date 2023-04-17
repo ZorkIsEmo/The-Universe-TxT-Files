@@ -1,5 +1,12 @@
 ------------------------------------------------------
 
+04/16/2023
+- You no longer suffocate in wood mines if you logout 
+  or switch server in them
+- Bounties are now sorted properly
+- Improved offline player lookup logic
+- Added support for 1.19.3 and 1.19.4
+
 04/15/2023
 - Playerhead textures are now synchronized between 
   all servers.
