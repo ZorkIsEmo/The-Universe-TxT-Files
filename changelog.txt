@@ -1,5 +1,15 @@
 ------------------------------------------------------
 
+04/17/2023
+- Fixed items being lost in vaults at random
+- Fixed entities not being saved on islands
+- Added required blocks mined for each prestige 
+  (See website for requirements)
+- Added past minute earnings message
+- Items on islands now stack higher than 64, this 
+  should help prevent entity count in chunk exceeding
+  the limit when having a lot of generators
+
 04/16/2023
 - You no longer suffocate in wood mines if you logout 
   or switch server in them
