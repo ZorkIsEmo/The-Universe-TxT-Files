@@ -1,5 +1,30 @@
 ------------------------------------------------------
 
+04/22/2023
+- Added /tutorial
+- Reworked /kit
+- Fixed Dark Geodes only giving you one gemstone 
+  rather than two
+- Adjusted /island visit
+     You can now use either: player name, island name
+     or island alias to visit an island. Player name 
+     has priority.
+- Preferences are now synced to proxy 
+  (no longer require rejoin or switching server)
+- Fixed /seen showing incorrect time
+- Fixed coinflip result menu showing incorrect 
+  heads/tails when flickering
+- Fixed tab complete for several proxy command such
+  as whisper
+- Added prevention to combining armor/tools in 
+  crafting
+- Added prevention to repairing items in anvils
+- Added ability to click on the names in a whisper
+  to auto fill message command to the sender of the
+  whisper
+- Added emojis to whispers
+- Fixed any rarity rods being abled to be merged
+
 04/17/2023
 - Fixed items being lost in vaults at random
 - Fixed entities not being saved on islands
