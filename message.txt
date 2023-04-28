@@ -2,6 +2,9 @@
 &4Press N to open notes and see
 &4important hotkeys!
 
+Update 2.5
+huge update to chat with AdvancedChat
+
 Update 2.1.0
 -menu fix
 -Essential back
