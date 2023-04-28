@@ -1,5 +1,13 @@
 ------------------------------------------------------
 
+04/24/2023
+- Fixed miners pickaxe dupe
+- Fixed prestige 10 rankup bug
+- Added "Mine Messages" preference
+- Added "Earnings Message" preference
+- Possible fix for infinite player data has not been 
+  saved disconnect message
+
 04/22/2023
 - Added /tutorial
 - Reworked /kit
