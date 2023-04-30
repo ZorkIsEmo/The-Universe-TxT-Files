@@ -1,5 +1,10 @@
 ------------------------------------------------------
 
+04/39/2023
+- Added more barriers around the pvp area
+- Voting hall -> cookie hall (for future reasons)
+- Fixed generator move bug
+
 04/24/2023
 - Fixed miners pickaxe dupe
 - Fixed prestige 10 rankup bug
