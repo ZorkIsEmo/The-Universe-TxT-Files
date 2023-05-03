@@ -1,5 +1,14 @@
 ------------------------------------------------------
 
+05/03/2023
+- Added content creator symbol
+- Added new emoji ;y 
+- Fixed being unable to visit islands using certain 
+  island aliases
+- Fixed non island members being able to interact with
+  beacons
+- Fixed a bug related to profile name lookup
+
 04/39/2023
 - Added more barriers around the pvp area
 - Voting hall -> cookie hall (for future reasons)
