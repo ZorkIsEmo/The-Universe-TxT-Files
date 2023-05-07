@@ -2,6 +2,10 @@
 &4Press N to open notes and see
 &4important hotkeys!
 
+Update 2.7.2
+bug fixes
+connected glass is back
+
 Update 2.7
 huge stability increase
 removed unneeded mods
