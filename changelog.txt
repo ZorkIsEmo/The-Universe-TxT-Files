@@ -1,5 +1,12 @@
 ------------------------------------------------------
 
+05/12/2023
+- Added new warp menu
+- Added chat bot that answers frequently asked 
+  questions
+- Fixed voting in lobby giving no keys
+- Cookie hall renovations
+
 05/03/2023
 - Added content creator symbol
 - Added new emoji ;y 
